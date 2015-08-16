@@ -1,0 +1,37 @@
+= Test Post Title
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js
+
+== Test Post Sub-title
+
+
+NOTE: this is a note
+
+TIP: Goes a long way
+
+
+IMPORTANT: Ignore at your peril!
+
+CAUTION: A warning in disguise
+
+WARNING: Do not go further!!
+
+
+image::personal-logo.png[]
+
+
+
+	NOTE: This is indented text.
+
+
+
+why doesn't the image display???
+
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
+Keyboard:: Used to enter text or control items on the screen.
+Mouse:: Used to point to and select items on your computer screen.
+Monitor:: Displays information in visual form using text and graphics.

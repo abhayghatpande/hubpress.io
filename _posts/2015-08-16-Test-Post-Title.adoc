@@ -19,7 +19,7 @@ CAUTION: A warning in disguise
 WARNING: Do not go further!!
 
 
-image::personal-logo.png[]
+image::https://raw.githubusercontent.com/abhayghatpande/hubpress.io/gh-pages/images/personal-logo.png[]
 
 
 

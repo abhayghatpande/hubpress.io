@@ -1,8 +1,4 @@
 = Test Post Title
-:imagesdir: ./images
-:iconsdir: ./icons
-:stylesdir: ./styles
-:scriptsdir: ./js
 
 == Test Post Sub-title
 
@@ -27,7 +23,7 @@ image::https://raw.githubusercontent.com/abhayghatpande/hubpress.io/gh-pages/ima
 
 
 
-why doesn't the image display???
+why don't the admonition images display in the browser???
 
 CPU:: The brain of the computer.
 Hard drive:: Permanent storage for operating system and/or user files.

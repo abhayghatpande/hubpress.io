@@ -2,12 +2,17 @@
 
 == Admonition Test
 
+
 NOTE: this is a note
+
 
 TIP: Goes a long way
 
+
 IMPORTANT: Ignore at your peril!
 
+
 CAUTION: A warning in disguise
+
 
 WARNING: Do not go further!!

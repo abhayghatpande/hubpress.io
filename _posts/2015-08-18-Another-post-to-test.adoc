@@ -2,6 +2,8 @@
 
 == Admonition Test
 
+We have found an issue with HubPress. The admonitions don't display in the live blog even though they are shown in the preview.
+
 
 NOTE: this is a note
 

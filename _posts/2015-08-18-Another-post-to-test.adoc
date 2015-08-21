@@ -6,19 +6,19 @@
 
 We have found an issue with HubPress. The admonitions don't display in the live blog even though they are shown in the preview.
 
-Now we added new tags, let's see if that makes a difference.
+Now we added new tags, let's see if that makes a difference. Nope it doesn't.
 
-
-NOTE: this is a note
+[NOTE]
+icon:fire[] this is a note
 
 
 icon:heart[] Goes a long way
 
 
-IMPORTANT: Ignore at your peril!
+icon:exclamation-triangle[] Ignore at your peril!
 
-
-CAUTION: A warning in disguise
+[CAUTION]
+A warning in disguise
 
 
 WARNING: Do not go further!!

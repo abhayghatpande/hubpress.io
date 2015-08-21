@@ -1,8 +1,12 @@
 = Another post to test.
+:stem: latexmath
+:icons: font
 
 == Admonition Test
 
 We have found an issue with HubPress. The admonitions don't display in the live blog even though they are shown in the preview.
+
+Now we added new tags, let's see if that makes a difference.
 
 
 NOTE: this is a note

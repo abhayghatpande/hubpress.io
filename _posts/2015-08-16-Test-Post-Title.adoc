@@ -19,7 +19,7 @@ image::https://raw.githubusercontent.com/abhayghatpande/hubpress.io/gh-pages/ima
 
 
 
-	NOTE: This is indented text.
+NOTE: This is indented text.
 
 
 

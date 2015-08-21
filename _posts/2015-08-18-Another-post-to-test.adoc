@@ -12,7 +12,7 @@ Now we added new tags, let's see if that makes a difference.
 NOTE: this is a note
 
 
-TIP: Goes a long way
+icon:heart[] Goes a long way
 
 
 IMPORTANT: Ignore at your peril!
